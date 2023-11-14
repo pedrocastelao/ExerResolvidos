@@ -1,0 +1,14 @@
+C:\Users\caste\OneDrive\Documentos\projetos\ControleAnimais\ControleAnimais\bin\Debug\net6.0\ControleAnimais.exe
+C:\Users\caste\OneDrive\Documentos\projetos\ControleAnimais\ControleAnimais\bin\Debug\net6.0\ControleAnimais.deps.json
+C:\Users\caste\OneDrive\Documentos\projetos\ControleAnimais\ControleAnimais\bin\Debug\net6.0\ControleAnimais.runtimeconfig.json
+C:\Users\caste\OneDrive\Documentos\projetos\ControleAnimais\ControleAnimais\bin\Debug\net6.0\ControleAnimais.dll
+C:\Users\caste\OneDrive\Documentos\projetos\ControleAnimais\ControleAnimais\bin\Debug\net6.0\ControleAnimais.pdb
+C:\Users\caste\OneDrive\Documentos\projetos\ControleAnimais\ControleAnimais\obj\Debug\net6.0\ControleAnimais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caste\OneDrive\Documentos\projetos\ControleAnimais\ControleAnimais\obj\Debug\net6.0\ControleAnimais.AssemblyInfoInputs.cache
+C:\Users\caste\OneDrive\Documentos\projetos\ControleAnimais\ControleAnimais\obj\Debug\net6.0\ControleAnimais.AssemblyInfo.cs
+C:\Users\caste\OneDrive\Documentos\projetos\ControleAnimais\ControleAnimais\obj\Debug\net6.0\ControleAnimais.csproj.CoreCompileInputs.cache
+C:\Users\caste\OneDrive\Documentos\projetos\ControleAnimais\ControleAnimais\obj\Debug\net6.0\ControleAnimais.dll
+C:\Users\caste\OneDrive\Documentos\projetos\ControleAnimais\ControleAnimais\obj\Debug\net6.0\refint\ControleAnimais.dll
+C:\Users\caste\OneDrive\Documentos\projetos\ControleAnimais\ControleAnimais\obj\Debug\net6.0\ControleAnimais.pdb
+C:\Users\caste\OneDrive\Documentos\projetos\ControleAnimais\ControleAnimais\obj\Debug\net6.0\ControleAnimais.genruntimeconfig.cache
+C:\Users\caste\OneDrive\Documentos\projetos\ControleAnimais\ControleAnimais\obj\Debug\net6.0\ref\ControleAnimais.dll
