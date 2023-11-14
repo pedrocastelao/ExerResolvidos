@@ -1,0 +1,14 @@
+C:\Users\caste\OneDrive\Documentos\projetos\ListaFuncionarios\ListaFuncionarios\bin\Debug\net6.0\ListaFuncionarios.exe
+C:\Users\caste\OneDrive\Documentos\projetos\ListaFuncionarios\ListaFuncionarios\bin\Debug\net6.0\ListaFuncionarios.deps.json
+C:\Users\caste\OneDrive\Documentos\projetos\ListaFuncionarios\ListaFuncionarios\bin\Debug\net6.0\ListaFuncionarios.runtimeconfig.json
+C:\Users\caste\OneDrive\Documentos\projetos\ListaFuncionarios\ListaFuncionarios\bin\Debug\net6.0\ListaFuncionarios.dll
+C:\Users\caste\OneDrive\Documentos\projetos\ListaFuncionarios\ListaFuncionarios\bin\Debug\net6.0\ListaFuncionarios.pdb
+C:\Users\caste\OneDrive\Documentos\projetos\ListaFuncionarios\ListaFuncionarios\obj\Debug\net6.0\ListaFuncionarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caste\OneDrive\Documentos\projetos\ListaFuncionarios\ListaFuncionarios\obj\Debug\net6.0\ListaFuncionarios.AssemblyInfoInputs.cache
+C:\Users\caste\OneDrive\Documentos\projetos\ListaFuncionarios\ListaFuncionarios\obj\Debug\net6.0\ListaFuncionarios.AssemblyInfo.cs
+C:\Users\caste\OneDrive\Documentos\projetos\ListaFuncionarios\ListaFuncionarios\obj\Debug\net6.0\ListaFuncionarios.csproj.CoreCompileInputs.cache
+C:\Users\caste\OneDrive\Documentos\projetos\ListaFuncionarios\ListaFuncionarios\obj\Debug\net6.0\ListaFuncionarios.dll
+C:\Users\caste\OneDrive\Documentos\projetos\ListaFuncionarios\ListaFuncionarios\obj\Debug\net6.0\refint\ListaFuncionarios.dll
+C:\Users\caste\OneDrive\Documentos\projetos\ListaFuncionarios\ListaFuncionarios\obj\Debug\net6.0\ListaFuncionarios.pdb
+C:\Users\caste\OneDrive\Documentos\projetos\ListaFuncionarios\ListaFuncionarios\obj\Debug\net6.0\ListaFuncionarios.genruntimeconfig.cache
+C:\Users\caste\OneDrive\Documentos\projetos\ListaFuncionarios\ListaFuncionarios\obj\Debug\net6.0\ref\ListaFuncionarios.dll
